@@ -1,3 +1,6 @@
+
+on branch `barebones`:
+
 * babel
 * core-js
 * typescript
