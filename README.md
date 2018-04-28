@@ -13,42 +13,18 @@ on branch `barebones`
 
 on branch `three`
 
-* babel
-* core-js
-* typescript
-* prettier
-* jest
-* webpack
-* webpack-dev-server
-* normalize.css
-* closure compiler
+* content of `barebones`
 * three.js
 * resonance-audio
 
 on branch `react`
 
-* babel
-* core-js
-* typescript
-* prettier
-* jest
-* webpack
-* webpack-dev-server
-* normalize.css
-* closure compiler
+* content of `barebones`
 * react
 * emotion
 
 on branch `inferno`
 
-* babel
-* core-js
-* typescript
-* prettier
-* jest
-* webpack
-* webpack-dev-server
-* normalize.css
-* closure compiler
+* content of `barebones`
 * inferno
 * emotion
